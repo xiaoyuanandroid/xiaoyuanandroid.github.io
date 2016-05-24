@@ -189,6 +189,9 @@ a {
 .hide {
   display: none;
 }
+.share_jia {
+  margin-left: 38px !important;
+}
 @media screen and (max-width: 1040px) {
   .inner {
     width: 100%;
